@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "expo-gl": "^8.2.0",
+    "expo-gl-cpp": "^8.2.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-unimodules": "^0.9.1"
